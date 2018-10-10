@@ -1,0 +1,16 @@
+{
+  "route-info": "Current page",
+  "search": "Search",
+  "contact-list": "Contact List",
+  "add-contact": "Add Contact",
+  "edit-contact": "Edit Contact",
+  "list-contact-name": "Name",
+  "list-contact-gender": "Gender",
+  "list-contact-gender-male": "Male",
+  "list-contact-gender-female": "Female",
+  "list-contact-country": "Country",
+  "list-contact-email": "Email",
+  "list-contact-postal-code": "Postal Code",
+  "list-contact-no-data": "(none)",
+  "help": "Help"
+}

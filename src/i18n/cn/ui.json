@@ -1,0 +1,16 @@
+{
+  "route-info": "现在位置",
+  "search": "检索",
+  "contact-list": "通讯录",
+  "add-contact": "添加好友",
+  "edit-contact": "更改信息",
+  "list-contact-name": "姓名",
+  "list-contact-gender": "性别",
+  "list-contact-gender-male": "男",
+  "list-contact-gender-female": "女",
+  "list-contact-country": "国籍",
+  "list-contact-email": "Email 地址",
+  "list-contact-postal-code": "邮政编码",
+  "list-contact-no-data": "（未知）",
+  "help": "帮助"
+}
