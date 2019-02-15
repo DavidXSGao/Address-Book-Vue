@@ -1,6 +1,6 @@
 # address-book-vue
 
-> We are trying to re-create a very simple Address book, similar to Google Contacts.
+> Trying to re-create a very simple Address book, similar to Google Contacts.
 
 ## Build Setup
 
